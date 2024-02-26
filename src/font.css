@@ -1,0 +1,21 @@
+@font-face {
+    src: url('/assets/fonts/Oliver-Regular.ttf') format('truetype');
+    font-family: Oliver;
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    /* font-family: 'GT Walsheim'; */
+    src: url('/assets/fonts/GT-America-Standard-Regular.otf') format('outtype');
+    font-family: GT America;
+    font-weight: 900; 
+    font-style: normal; 
+}
+
+@font-face {
+    src: url('/assets/fonts/GT-Walsheim-Ultra-Bold.ttf') format('truetype');
+    font-family: GT Walsheim;
+    font-style: normal;
+    font-weight: 900;
+}
